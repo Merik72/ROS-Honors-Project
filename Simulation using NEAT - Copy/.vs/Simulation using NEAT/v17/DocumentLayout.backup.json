@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Simulation using NEAT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|c:\\simulation using neat\\assets\\scripts\\scenemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|C:\\Simulation using NEAT\\assets\\scripts\\movement\\updatedwheelsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\updatedwheelsubscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Simulation using NEAT\\Library\\PackageCache\\com.unity.robotics.ros-tcp-connector@c27f00c6cf\\Runtime\\TcpConnector\\ROSConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.robotics.ros-tcp-connector@c27f00c6cf\\Runtime\\TcpConnector\\ROSConnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|C:\\Simulation using NEAT\\assets\\scripts\\movement\\tankcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\tankcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|C:\\Simulation using NEAT\\assets\\scripts\\sensors\\velodynelidarsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sensors\\velodynelidarsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\simulation using neat\\assets\\scenemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scenemaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|C:\\Simulation using NEAT\\assets\\scripts\\sensors\\camerasensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sensors\\camerasensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|C:\\Simulation using NEAT\\assets\\scripts\\sensors\\camerapublish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE1F445-4F2F-1A14-4AE5-D970332F30EA}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sensors\\camerapublish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 287,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneMaster.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\Scripts\\SceneMaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMaster.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\Scripts\\SceneMaster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:44:59.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatedWheelSubscriber.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\Scripts\\Movement\\UpdatedWheelSubscriber.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\UpdatedWheelSubscriber.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\Scripts\\Movement\\UpdatedWheelSubscriber.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\UpdatedWheelSubscriber.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:30:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneMaster.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\SceneMaster.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneMaster.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\SceneMaster.cs",
+              "RelativeToolTip": "Assets\\SceneMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:44:48.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VelodyneLidarSensor.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\Scripts\\Sensors\\VelodyneLidarSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sensors\\VelodyneLidarSensor.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\Scripts\\Sensors\\VelodyneLidarSensor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sensors\\VelodyneLidarSensor.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T18:38:54.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tankControl.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\Scripts\\Movement\\tankControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\tankControl.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\Scripts\\Movement\\tankControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\tankControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:28:14.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraSensor.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\Scripts\\Sensors\\CameraSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sensors\\CameraSensor.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\Scripts\\Sensors\\CameraSensor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sensors\\CameraSensor.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:53:38.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraPublish.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Assets\\Scripts\\Sensors\\CameraPublish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sensors\\CameraPublish.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Assets\\Scripts\\Sensors\\CameraPublish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sensors\\CameraPublish.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA5wC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:14:24.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ROSConnection.cs",
+              "DocumentMoniker": "C:\\Simulation using NEAT\\Library\\PackageCache\\com.unity.robotics.ros-tcp-connector@c27f00c6cf\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.robotics.ros-tcp-connector@c27f00c6cf\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "ToolTip": "C:\\Simulation using NEAT\\Library\\PackageCache\\com.unity.robotics.ros-tcp-connector@c27f00c6cf\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.robotics.ros-tcp-connector@c27f00c6cf\\Runtime\\TcpConnector\\ROSConnection.cs",
+              "ViewState": "AgIAACIDAAAAAAAAAAAAAEADAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T18:24:43.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
