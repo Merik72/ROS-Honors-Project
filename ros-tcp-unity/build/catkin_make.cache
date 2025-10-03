@@ -1,0 +1,2 @@
+ROS-TCP-Endpoint:unity_robotics_demo:unity_robotics_demo_msgs
+-DCATKIN_DEVEL_PREFIX=/home/admin2/ros-tcp-unity/devel -DCMAKE_INSTALL_PREFIX=/home/admin2/ros-tcp-unity/install -G Unix Makefiles
